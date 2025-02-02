@@ -25,11 +25,11 @@ const Works = () => {
           </span>
           <span>Library & Packages</span>
           <spane>
-            3+ years of working experience in JavaScript,React,Html and Css
+            Over 3 years of experience working with JavaScript, React, HTML, and CSS
             <br />
-            Moreover, knowdlege of famous packages like Redux, Styled-Component
+            with expertise in popular libraries and frameworks such as Redux, Styled-Components
             <br />
-            Material-ui, Type-Script
+            Material-UI, and TypeScript.
           </spane>
           <Link to="contact" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>

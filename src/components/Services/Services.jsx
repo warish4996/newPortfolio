@@ -26,9 +26,9 @@ const Services = () => {
         <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
         <span>services</span>
         <spane>
-          I can build and desing the website with better qulity of code
+        I can design and build high-quality websites with clean, efficient code
           <br />
-          FAST, RELIABLE with BEUTIFUL DESING AND STRUCTURE
+          fast, reliable, and beautifully structured for an exceptional user experience.
         </spane>
         <a href={Resume} download>
           <button className="button s-button">Download CV</button>
